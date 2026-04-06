@@ -26,3 +26,7 @@ Project Outputs*/
 
 # Folder to save each comparison results
 CompareHistory/
+
+# Altium compiled library cache
+*.AltiumPcbLib
+*.AltiumSchLib  
