@@ -68,6 +68,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIUYPVWL
 
+[Parameter1]
+Name=
+Value=
+
+[Parameter2]
+Name=Title
+Value=Breadboard Power Supply
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
