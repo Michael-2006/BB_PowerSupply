@@ -86,10 +86,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JHHISMLU
 
 [Parameter1]
-Name=
-Value=
-
-[Parameter2]
 Name=Title
 Value=Breadboard Power Supply
 
